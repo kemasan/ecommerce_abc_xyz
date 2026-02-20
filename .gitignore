@@ -1,0 +1,6 @@
+# DuckDB files
+*.duckdb
+*.wal
+
+# OS junk
+.DS_Store
