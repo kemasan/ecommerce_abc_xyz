@@ -150,3 +150,38 @@ Features:
 ---
 
 ## 📁 Repository Structure
+
+ecommerce_abc_xyz/
+├── sql/
+│ ├── 01_import_and_clean.sql
+│ ├── 02_net_sales_layer.sql
+│ ├── 03_abc_analysis.sql
+│ ├── 04_xyz_analysis.sql
+│ └── 05_abc_xyz_join_and_exports.sql
+├── abc_xyz_final.csv
+├── abc_curve.csv
+├── README.md
+└── HOW_TO_RUN.md
+
+---
+
+## 🚀 How to Reproduce
+
+1. Install DuckDB
+2. Load dataset
+3. Run SQL scripts in order
+4. Export CSVs
+5. Connect Tableau to final dataset
+
+Detailed instructions: `HOW_TO_RUN.md`
+
+---
+
+## 📌 Key Takeaways
+
+- 20% of SKUs generate ~80% of revenue
+- AX and AY products dominate profitability
+- CX products consistently destroy value
+- Demand stability is as critical as revenue volume
+
+This framework supports data-driven inventory optimization and risk management.
