@@ -150,7 +150,7 @@ Features:
 ---
 
 ## 📁 Repository Structure
-
+```
 ecommerce_abc_xyz/
 ├── sql/
 │ ├── 01_import_and_clean.sql
@@ -162,7 +162,7 @@ ecommerce_abc_xyz/
 ├── abc_curve.csv
 ├── README.md
 └── HOW_TO_RUN.md
-
+```
 ---
 
 ## 🚀 How to Reproduce
