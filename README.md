@@ -127,7 +127,7 @@ These assumptions were validated through QA checks at each pipeline stage.
 The full analysis is available in an interactive Tableau dashboard:
 
 👉 **Tableau Public Dashboard:**  
-[https://public.tableau.com/your-dashboard-link](https://public.tableau.com/authoring/ABC_17712246527350/ABCXYZInventorySegmentationRevenueConcentrationDemandStabilityAnalysis#1)
+[https://public.tableau.com/your-dashboard-link](https://public.tableau.com/views/ABC_17712246527350/ABCXYZInventorySegmentationRevenueConcentrationDemandStabilityAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Features:
 
